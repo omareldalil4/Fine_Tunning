@@ -13,4 +13,4 @@
 
 1. قم باستنساخ المشروع:
    ```bash
-   git clone https://github.com/hagerarafat672/Fine_Tunning.git
+   git clone https://github.com/omareldalil4/Fine_Tunning.git
